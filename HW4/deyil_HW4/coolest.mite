@@ -1,0 +1,8 @@
+a 0 -> a 1 left
+a 1 -> a 2 left
+a 2 -> a 3 left
+a 3 -> b 0 backward
+b 0 -> b 1 right
+b 1 -> b 2 right
+b 2 -> b 3 right
+b 3 -> a 0 forward
