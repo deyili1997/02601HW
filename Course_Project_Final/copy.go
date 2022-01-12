@@ -1,5 +1,6 @@
 package main
 
+//this is a support document that copies objects
 func (p *phageGroup) CopyPhageGroup() *phageGroup {
 	var copyPGroup phageGroup
 	copyPGroup.group = make([]*phage, 0)
